@@ -7,7 +7,6 @@
 <collisions/>
 <commit_date/>
 <deleted/>
-	
 <description>Creates a global UI Action that will add any record (plus attachments &amp; translations) to the active update set*:
 -Appears as link at the bottom of each record
 -For adding multiple records at once, appears as a drop-down menu option on each list
