@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2022-05-30 09:54:56">
+<alm_license action="INSERT_OR_UPDATE">
+<acquisition_method/>
+<agreement_type>generic</agreement_type>
+<allocations_available>260</allocations_available>
+<asset_function/>
+<asset_tag>SWL0000094</asset_tag>
+<assigned/>
+<assigned_condition table="sys_user"/>
+<assigned_to display_value=""/>
+<beneficiary display_value=""/>
+<checked_in/>
+<checked_out/>
+<ci display_value=""/>
+<comments/>
+<company display_value="L'OREAL SA - Etablissement Corporate">51ef141bdb1c27405ade6dda4b961903</company>
+<cost>597985.45</cost>
+<cost_center display_value=""/>
+<data_source>manual</data_source>
+<database_option display_value=""/>
+<delivery_date/>
+<department display_value=""/>
+<depreciation display_value=""/>
+<depreciation_date/>
+<display_name>SWL0000094 - SALESFORCE.COM Service Cloud Unlimited</display_name>
+<disposal_reason/>
+<due/>
+<due_in/>
+<end_date>2024-01-29</end_date>
+<entitlement_condition table="cmdb_ci"/>
+<expenditure_type/>
+<gl_account/>
+<install_date/>
+<install_status>1</install_status>
+<invoice_number/>
+<is_merged_license>false</is_merged_license>
+<justification/>
+<lease_id/>
+<license_duration>1</license_duration>
+<license_key/>
+<license_metric display_value="User Subscription">48c5d8d293200300544814f1b47ffb45</license_metric>
+<license_metric_result display_value="User Subscription">4384d55ddbb7851c4849366af49619de</license_metric_result>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<maintenance>false</maintenance>
+<maintenance_expiration_date/>
+<managed_by display_value=""/>
+<merged_into display_value=""/>
+<metric_group display_value="Subscription">e245fa8373631300009136366bf6a75e</metric_group>
+<model display_value="SALESFORCE.COM Service Cloud Unlimited">5edee7a3db6e059048bfcdf5059619de</model>
+<model_category display_value="Software License">35bf2d4137101000deeabfc8bcbe5dbd</model_category>
+<number_of_packs/>
+<old_status/>
+<old_substatus/>
+<order_date/>
+<owned_by display_value="DARMON David">6a5a677e1b950414c7370edacd4bcbf6</owned_by>
+<parent display_value=""/>
+<playbook_entitlement_setup display_value=""/>
+<po_number/>
+<pre_allocated>false</pre_allocated>
+<product_type>subscription</product_type>
+<publisher_part_number display_value=""/>
+<purchase_date/>
+<purchased_rights>260</purchased_rights>
+<quantity>1</quantity>
+<request_line display_value=""/>
+<reserve_entitlement>false</reserve_entitlement>
+<reserved_for display_value=""/>
+<residual_date/>
+<retired/>
+<retirement_date/>
+<rights>260</rights>
+<rights_per_license_pack/>
+<serial_number/>
+<skip_sync>false</skip_sync>
+<software_model display_value="SALESFORCE.COM Service Cloud Unlimited">5edee7a3db6e059048bfcdf5059619de</software_model>
+<source_entitlement display_value=""/>
+<start_date>2021-01-30</start_date>
+<stockroom display_value=""/>
+<subscription_period>monthly</subscription_period>
+<substatus/>
+<support_group display_value=""/>
+<supported_by display_value=""/>
+<sys_class_name>alm_license</sys_class_name>
+<sys_created_by>jeremy.pottier@loreal.com</sys_created_by>
+<sys_created_on>2022-05-18 06:36:45</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>fa908359dbaf41d04849366af49619a4</sys_id>
+<sys_mod_count>17</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2022-05-30 09:00:20</sys_updated_on>
+<total_units/>
+<u_division display_value=""/>
+<u_on_network>false</u_on_network>
+<u_site display_value=""/>
+<unit_cost>63.89</unit_cost>
+<upgrade_entitlement display_value=""/>
+<vendor display_value="SALESFORCE.COM">3b44aae5dbe49748f1b29334ca961976</vendor>
+<warranty_expiration/>
+<work_notes/>
+</alm_license>
+<alm_license action="INSERT_OR_UPDATE">
+<acquisition_method/>
+<agreement_type>generic</agreement_type>
+<allocations_available>485</allocations_available>
+<asset_function/>
+<asset_tag>SWL0000094</asset_tag>
+<assigned/>
+<assigned_condition table="sys_user"/>
+<assigned_to display_value=""/>
+<beneficiary display_value=""/>
+<checked_in/>
+<checked_out/>
+<ci display_value=""/>
+<comments/>
+<company display_value="L'OREAL SA - Etablissement Corporate">51ef141bdb1c27405ade6dda4b961903</company>
+<cost>276832.68</cost>
+<cost_center display_value=""/>
+<data_source>manual</data_source>
+<database_option display_value=""/>
+<delivery_date/>
+<department display_value=""/>
+<depreciation display_value=""/>
+<depreciation_date/>
+<display_name>SWL0000094 - SALESFORCE.COM Salesforce Platform Unlimited</display_name>
+<disposal_reason/>
+<due/>
+<due_in/>
+<end_date>2024-01-29</end_date>
+<entitlement_condition table="cmdb_ci"/>
+<expenditure_type/>
+<gl_account/>
+<install_date/>
+<install_status>1</install_status>
+<invoice_number/>
+<is_merged_license>false</is_merged_license>
+<justification/>
+<lease_id/>
+<license_duration>1</license_duration>
+<license_key/>
+<license_metric display_value="User Subscription">48c5d8d293200300544814f1b47ffb45</license_metric>
+<license_metric_result display_value="User Subscription">4b84d55ddbb7851c4849366af49619a2</license_metric_result>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<maintenance>false</maintenance>
+<maintenance_expiration_date/>
+<managed_by display_value=""/>
+<merged_into display_value=""/>
+<metric_group display_value="Subscription">e245fa8373631300009136366bf6a75e</metric_group>
+<model display_value="SALESFORCE.COM Salesforce Platform Unlimited">4edea7a3db6e059048bfcdf5059619cd</model>
+<model_category display_value="Software License">35bf2d4137101000deeabfc8bcbe5dbd</model_category>
+<number_of_packs/>
+<old_status/>
+<old_substatus/>
+<order_date/>
+<owned_by display_value="DARMON David">6a5a677e1b950414c7370edacd4bcbf6</owned_by>
+<parent display_value=""/>
+<playbook_entitlement_setup display_value=""/>
+<po_number/>
+<pre_allocated>false</pre_allocated>
+<product_type>subscription</product_type>
+<publisher_part_number display_value=""/>
+<purchase_date/>
+<purchased_rights>485</purchased_rights>
+<quantity>1</quantity>
+<request_line display_value=""/>
+<reserve_entitlement>false</reserve_entitlement>
+<reserved_for display_value=""/>
+<residual_date/>
+<retired/>
+<retirement_date/>
+<rights>485</rights>
+<rights_per_license_pack/>
+<serial_number/>
+<skip_sync>false</skip_sync>
+<software_model display_value="SALESFORCE.COM Salesforce Platform Unlimited">4edea7a3db6e059048bfcdf5059619cd</software_model>
+<source_entitlement display_value=""/>
+<start_date>2021-01-30</start_date>
+<stockroom display_value=""/>
+<subscription_period>monthly</subscription_period>
+<substatus/>
+<support_group display_value=""/>
+<supported_by display_value=""/>
+<sys_class_name>alm_license</sys_class_name>
+<sys_created_by>jeremy.pottier@loreal.com</sys_created_by>
+<sys_created_on>2022-05-18 06:35:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>2e104359dbaf41d04849366af49619fa</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2022-05-30 09:00:19</sys_updated_on>
+<total_units/>
+<u_division display_value=""/>
+<u_on_network>false</u_on_network>
+<u_site display_value=""/>
+<unit_cost>15.86</unit_cost>
+<upgrade_entitlement display_value=""/>
+<vendor display_value="SALESFORCE.COM">3b44aae5dbe49748f1b29334ca961976</vendor>
+<warranty_expiration/>
+<work_notes/>
+</alm_license>
+</unload>

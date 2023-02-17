@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2014-10-30 01:51:02">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Calgary+ compatability</description>
+<inserted/>
+<name>Cloud Sherpas - Remote File Importer - v1.3</name>
+<origin_sys_id/>
+<release_date/>
+<remote_sys_id>227433d8dc8a2140faa533ccb739ce7a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>7c08fb392b007900a7e5c73c27da1582</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_143b371cdc8a2140faa533ccb739ce4f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>name</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:28</sys_created_on><sys_id>143b371cdc8a2140faa533ccb739ce4f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:28</sys_updated_on><table>u_cs_file_import</table><ui_policy display_value="CS - File Import UI Policy">590b371cdc8a2140faa533ccb739ce31</ui_policy><visible>ignore</visible></sys_ui_policy_action><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;[/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:28</sys_created_on><sys_id>dc3b371cdc8a2140faa533ccb739ce4f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>name</sys_name><sys_parent display_value="CS - File Import UI Policy">d83b371cdc8a2140faa533ccb739ce4b</sys_parent><sys_path>!!9;B/!!9;Y/!!9;[/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>143b371cdc8a2140faa533ccb739ce4f</sys_source_id><sys_source_table>sys_ui_policy_action</sys_source_table><sys_type/><sys_update_name>sys_ui_policy_action_143b371cdc8a2140faa533ccb739ce4f</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:28</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>3008fb392b007900a7e5c73c27da1585</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>name</target_name>
+<type>UI Policy Action</type>
+<u_link>[code]&lt;a title="name" class="linked" href="sys_ui_policy_action.do?sys_id=143b371cdc8a2140faa533ccb739ce4f"&gt;name&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_bd75b3d8dc8a2140faa533ccb739ce6e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>bd75b3d8dc8a2140faa533ccb739ce6e</sys_id><sys_mod_count>0</sys_mod_count><sys_security_acl display_value="u_cs_file_import">7d75b3d8dc8a2140faa533ccb739ce6b</sys_security_acl><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role></sys_security_acl_role><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;G/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>fd75b3d8dc8a2140faa533ccb739ce6f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>bd75b3d8dc8a2140faa533ccb739ce6e</sys_name><sys_parent/><sys_path>!!9;G/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>bd75b3d8dc8a2140faa533ccb739ce6e</sys_source_id><sys_source_table>sys_security_acl_role</sys_source_table><sys_type/><sys_update_name>sys_security_acl_role_bd75b3d8dc8a2140faa533ccb739ce6e</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>3008fb392b007900a7e5c73c27da1586</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_cs_file_import.admin</target_name>
+<type>Access Roles</type>
+<u_link>[code]&lt;a title="u_cs_file_import.admin" class="linked" href="sys_security_acl_role.do?sys_id=bd75b3d8dc8a2140faa533ccb739ce6e"&gt;u_cs_file_import.admin&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_cs_file_import_u_mid_server</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT" element="u_mid_server" table="u_cs_file_import"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation><![CDATA[answer = "";]]]]><![CDATA[></calculation><choice/><choice_field/><choice_table/><column_label>MID server</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><element>u_mid_server</element><element_reference>false</element_reference><foreign_database/><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>u_cs_file_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="">ecc_agent</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_type/><sizeclass/><spell_check>false</spell_check><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:28</sys_created_on><sys_id>41b473d8dc8a2140faa533ccb739ce30</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:28</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;&lt;/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:28</sys_created_on><sys_id>2d75b3d8dc8a2140faa533ccb739ce50</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MID server</sys_name><sys_parent display_value="Remote File Import">6d75b3d8dc8a2140faa533ccb739ce60</sys_parent><sys_path>!!9;B/!!9;&lt;/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id element="u_mid_server" name="u_cs_file_import" sys_source_table="sys_dictionary">41b473d8dc8a2140faa533ccb739ce30</sys_source_id><sys_source_table>sys_dictionary</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_dictionary_u_cs_file_import_u_mid_server</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:28</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>3008fb392b007900a7e5c73c27da1588</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Remote File Import.u_mid_server</target_name>
+<type>Dictionary</type>
+<u_link>Remote File Import.u_mid_server</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_7d75b3d8dc8a2140faa533ccb739ce6b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><condition/><description>Default access control on u_cs_file_import</description><name>u_cs_file_import</name><operation display_value="read">read</operation><script/><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>7d75b3d8dc8a2140faa533ccb739ce6b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on><type display_value="record">record</type></sys_security_acl><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;F/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>bd75b3d8dc8a2140faa533ccb739ce6c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cs_file_import</sys_name><sys_parent/><sys_path>!!9;F/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>7d75b3d8dc8a2140faa533ccb739ce6b</sys_source_id><sys_source_table>sys_security_acl</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_security_acl_7d75b3d8dc8a2140faa533ccb739ce6b</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>3008fb392b007900a7e5c73c27da1589</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_cs_file_import</target_name>
+<type>Access Control</type>
+<u_link>[code]&lt;a title="u_cs_file_import" class="linked" href="sys_security_acl.do?sys_id=7d75b3d8dc8a2140faa533ccb739ce6b"&gt;u_cs_file_import&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_b975b3d8dc8a2140faa533ccb739ce64</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><condition/><description>Default access control on u_cs_file_import</description><name>u_cs_file_import</name><operation display_value="create">create</operation><script/><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>b975b3d8dc8a2140faa533ccb739ce64</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on><type display_value="record">record</type></sys_security_acl><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;D/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>7175b3d8dc8a2140faa533ccb739ce66</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cs_file_import</sys_name><sys_parent/><sys_path>!!9;D/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>b975b3d8dc8a2140faa533ccb739ce64</sys_source_id><sys_source_table>sys_security_acl</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_security_acl_b975b3d8dc8a2140faa533ccb739ce64</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>3408fb392b007900a7e5c73c27da1584</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_cs_file_import</target_name>
+<type>Access Control</type>
+<u_link>[code]&lt;a title="u_cs_file_import" class="linked" href="sys_security_acl.do?sys_id=b975b3d8dc8a2140faa533ccb739ce64"&gt;u_cs_file_import&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_ui_page_8ed7b7392b007900a7e5c73c27da1516</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page"><sys_ui_page action="INSERT_OR_UPDATE"><category>general</category><client_script><![CDATA[var defaultName="";
+defaultMIDServer(defaultName);
+
+function defaultMIDServer(name) {
+  var midName = name;
+  if (midName == "") {
+      var gr = new GlideRecord('ecc_agent');
+	  gr.addQuery("status", "Up");
+	  gr.query();
+	  if (gr.next())
+	    midName = gr.name;
+  }
+	
+  gel('sys_display.ecc_agent').value = midName;
+}
+
+function actionOK() {
+  var topic = g_form.getValue('ecc_queue_topic');
+  var ename = g_form.getValue('ecc_queue_name');
+  var source = gel('srcip').value;
+  var agent_name = gel('sys_display.ecc_agent').value;
+  var probe_id = gel('sys_uniqueValue').value;
+
+  topic = topic.replace(/'/g, "\\'");
+  ename = ename.replace(/'/g, "\\'");
+  source = source.replace(/'/g, "\\'");
+  agent_name = agent_name.replace(/'/g, "\\'");
+
+  var ga = new GlideAjax('MIDServerAjax');
+  ga.addParam('sysparm_name','testProbe');
+  ga.addParam('sysparm_agent_name',agent_name);
+  ga.addParam('sysparm_probe_id',probe_id);
+  ga.addParam('sysparm_topic',topic);
+  ga.addParam('sysparm_ename',ename);
+  ga.addParam('sysparm_source',source);
+  ga.getXMLWait();
+ 
+  var sys_id = ga.getAnswer();
+  GlideDialogWindow.get().destroy();
+
+  var eccQueueURL = "ecc_queue_list.do?sysparm_query=sys_id=" + sys_id + "^ORresponse_to=" + sys_id;
+
+  var gd = new GlideDialogWindow("probe_progress_window");
+  gd.setPreference("ecc_queue_id", sys_id);
+  gd.setPreference('oncomplete', "self.location = '" + eccQueueURL + "';");
+  gd.render();
+}]]]]><![CDATA[></client_script><description/><html><![CDATA[<table border="0">
+<tr><td class="label" nowrap="true">Run probe against:</td><td><input type="text" id="srcip" value="127.0.0.1"/></td></tr>
+<tr><td class="label" nowrap="true">Using MID Server:</td><td><g:ui_reference name="ecc_agent" table="ecc_agent"/></td></tr>
+<tr><td colspan="2" align="right"><g:dialog_buttons_ok_cancel/></td></tr>
+</table>]]]]><![CDATA[></html><name>run_remote_import</name><processing_script/><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-10-30 01:50:18</sys_created_on><sys_id>8ed7b7392b007900a7e5c73c27da1516</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-10-30 01:50:18</sys_updated_on></sys_ui_page><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!:[V/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-10-30 01:50:18</sys_created_on><sys_id>4ed7b7392b007900a7e5c73c27da1517</sys_id><sys_mod_count>0</sys_mod_count><sys_name>run_remote_import</sys_name><sys_parent/><sys_path>!!:[V/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>8ed7b7392b007900a7e5c73c27da1516</sys_source_id><sys_source_table>sys_ui_page</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_ui_page_8ed7b7392b007900a7e5c73c27da1516</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-10-30 01:50:18</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>3808fb392b007900a7e5c73c27da1583</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table/>
+<target_name>run_remote_import</target_name>
+<type>UI Page</type>
+<u_link>[code]&lt;a title="run_remote_import" class="linked" href="sys_ui_page.do?sys_id=8ed7b7392b007900a7e5c73c27da1516"&gt;run_remote_import&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_ui_form_sections_7dd6bfd8dc8a2140faa533ccb739ce8f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="7dd6bfd8dc8a2140faa533ccb739ce8f" sys_domain="global" table="u_cs_file_import" version="2"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:27</sys_created_on><sys_domain>global</sys_domain><sys_id>bdd6bfd8dc8a2140faa533ccb739ce91</sys_id><sys_mod_count>1</sys_mod_count><sys_overrides/><sys_ui_form display_value="u_cs_file_import">7dd6bfd8dc8a2140faa533ccb739ce8f</sys_ui_form><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:56</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:27</sys_created_on><sys_domain>global</sys_domain><sys_id>35d6bfd8dc8a2140faa533ccb739ce94</sys_id><sys_mod_count>1</sys_mod_count><sys_overrides/><sys_ui_form display_value="u_cs_file_import">7dd6bfd8dc8a2140faa533ccb739ce8f</sys_ui_form><sys_ui_section display_value="Remote File Information">71d6bfd8dc8a2140faa533ccb739ce92</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:56</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>u_cs_file_import</name><roles/><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:27</sys_created_on><sys_domain>global</sys_domain><sys_id>7dd6bfd8dc8a2140faa533ccb739ce8f</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:27</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;W/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:27</sys_created_on><sys_id>b9d6bfd8dc8a2140faa533ccb739ce90</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cs_file_import</sys_name><sys_parent display_value="Cs File Import">6d75b3d8dc8a2140faa533ccb739ce60</sys_parent><sys_path>!!9;B/!!9;W/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>7dd6bfd8dc8a2140faa533ccb739ce8f</sys_source_id><sys_source_table>sys_ui_form</sys_source_table><sys_type/><sys_update_name>sys_ui_form_sections_7dd6bfd8dc8a2140faa533ccb739ce8f</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:27</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>3c08fb392b007900a7e5c73c27da1585</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Remote File Import</target_name>
+<type>Form Sections</type>
+<u_link>Remote File Import</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_c7463fd8dc8a2140faa533ccb739ce67</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section section_id="c7463fd8dc8a2140faa533ccb739ce67" sys_domain="global" table="u_cs_file_import" version="2"><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>8b4b371cdc8a2140faa533ccb739ceff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>1</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>0f4b371cdc8a2140faa533ccb739ceff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>2</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>8f4b371cdc8a2140faa533ccb739ceff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>run_type</element><position>3</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>034b771cdc8a2140faa533ccb739ce00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>run_dayofmonth</element><position>4</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>834b771cdc8a2140faa533ccb739ce00</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>run_dayofweek</element><position>5</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>cb4b771cdc8a2140faa533ccb739ce0c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>run_time</element><position>6</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>4f4b771cdc8a2140faa533ccb739ce0c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>run_period</element><position>7</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>cf4b771cdc8a2140faa533ccb739ce0c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>run_start</element><position>8</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>434b771cdc8a2140faa533ccb739ce0d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>conditional</element><position>9</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>c34b771cdc8a2140faa533ccb739ce0d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>condition</element><position>10</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>474b771cdc8a2140faa533ccb739ce0d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>11</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>c74b771cdc8a2140faa533ccb739ce0d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>run_as</element><position>12</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>4b4b771cdc8a2140faa533ccb739ce0d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>run_as_tz</element><position>13</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>cb4b771cdc8a2140faa533ccb739ce0d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>14</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:56</sys_created_on><sys_id>4f4b771cdc8a2140faa533ccb739ce0d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="">c7463fd8dc8a2140faa533ccb739ce67</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:56</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_cs_file_import</name><roles/><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:47:05</sys_created_on><sys_domain>global</sys_domain><sys_id>c7463fd8dc8a2140faa533ccb739ce67</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:47:05</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;U/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:47:05</sys_created_on><sys_id>8b463fd8dc8a2140faa533ccb739ce68</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cs_file_import</sys_name><sys_parent display_value="Cs File Import">6d75b3d8dc8a2140faa533ccb739ce60</sys_parent><sys_path>!!9;B/!!9;U/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>c7463fd8dc8a2140faa533ccb739ce67</sys_source_id><sys_source_table>sys_ui_section</sys_source_table><sys_type/><sys_update_name>sys_ui_section_c7463fd8dc8a2140faa533ccb739ce67</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:47:05</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>3c08fb392b007900a7e5c73c27da1586</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Remote File Import</target_name>
+<type>Form Layout</type>
+<u_link>[code]&lt;a title="Remote File Import" class="linked" href="sys_ui_section.do?sys_id=c7463fd8dc8a2140faa533ccb739ce67"&gt;Remote File Import&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_f575b3d8dc8a2140faa533ccb739ce74</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>f575b3d8dc8a2140faa533ccb739ce74</sys_id><sys_mod_count>0</sys_mod_count><sys_security_acl display_value="u_cs_file_import">b575b3d8dc8a2140faa533ccb739ce71</sys_security_acl><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role></sys_security_acl_role><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;I/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>3975b3d8dc8a2140faa533ccb739ce75</sys_id><sys_mod_count>0</sys_mod_count><sys_name>f575b3d8dc8a2140faa533ccb739ce74</sys_name><sys_parent/><sys_path>!!9;I/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>f575b3d8dc8a2140faa533ccb739ce74</sys_source_id><sys_source_table>sys_security_acl_role</sys_source_table><sys_type/><sys_update_name>sys_security_acl_role_f575b3d8dc8a2140faa533ccb739ce74</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>3c08fb392b007900a7e5c73c27da1588</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_cs_file_import.admin</target_name>
+<type>Access Roles</type>
+<u_link>[code]&lt;a title="u_cs_file_import.admin" class="linked" href="sys_security_acl_role.do?sys_id=f575b3d8dc8a2140faa533ccb739ce74"&gt;u_cs_file_import.admin&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>ecc_agent_script_include_649cbb289590e900da640ba99ece29e5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ecc_agent_script_include"><ecc_agent_script_include action="INSERT_OR_UPDATE"><active>true</active><description>Usage:&#13;
+Script needs to be set in a JavaScriptProbe ECC Queue entry:&#13;
+var remoteFileImport = new CSRemoteFileImport();&#13;
+remoteFileImport.getRemoteFileAndUploadToInstance();</description><name>CSMIDServerRemoteFileImport</name><script><![CDATA[var CSMIDServerRemoteFileImport = Class.create();
+CSMIDServerRemoteFileImport.prototype = {
+   initialize: function() {
+/*
+      // Originally created by Marcus Fly (marcus.fly@cloudsherpas.com) and Valor Poland (valor.poland@cloudsherpas.com)
+      // Refactored by Martin Wood (martin.wood@servicenow.com).
+*/
+      //this.debug = probe.getParameter("debug");
+      this.debug = true;
+      this.logMsg("Starting MID Server File Transfer");
+      this.charset = "UTF-8";
+      this.LINE_FEED = "\r\n";
+      
+      
+      this.boundary = "===" + new Date().getTime() + "===";
+      this.probeParameters = this._getProbeParameters();
+   },
+   
+   getRemoteFileAndUploadToInstance: function() {
+      var url = this._getInstanceConnectionURL();
+      var conn = this._getURLConnection(url);
+      var file = this._getFile();
+      var response = this._writeFile(conn, file);
+      if (response != 200)
+         throw "HTTP response " + response;
+      this.logMsg("HTTP response " + response, "debug");
+      
+      ms.log("Completed MID Server File Transfer");
+      return response;
+   },
+   
+   _getProbeParameters: function() {
+      var probeObj = {};
+      probeObj.instance = probe.getParameter("instance");
+      probeObj.instanceUser = ms.getConfigParameter("mid.instance.username");
+      probeObj.instancePassword = ms.getConfigParameter("mid.instance.password");
+      
+      probeObj.filePath = probe.getParameter("filePath");
+      probeObj.targetImportSet = probe.getParameter("targetImportSet");
+      return probeObj;
+   },
+   
+   _getInstanceConnectionURL: function() {
+      return this._joinParams(this.probeParameters.instance + "sys_import.do", [
+      this._encodeParam('sysparm_import_set_tablename', this.probeParameters.targetImportSet),
+      this._encodeParam('sysparm_transform_after_load', 'true')
+      ]);
+   },
+   
+   _encodeParam: function (k, v) {
+      return k + "=" + Packages.java.net.URLEncoder.encode(v);
+   },
+   
+   _joinParams: function (base, arr) {
+      return base + '?' + arr.join('&');
+   },
+   _getURLConnection: function(url) {
+      if (ms.getConfigParameter("mid.proxy.use_proxy") == 'true') {
+         Packages.java.lang.System.setProperty("https.proxyHost", ms.getConfigParameter("mid.proxy.host"));
+         Packages.java.lang.System.setProperty("http.proxyHost", ms.getConfigParameter("mid.proxy.host"));
+         Packages.java.lang.System.setProperty("https.proxyPort", ms.getConfigParameter("mid.proxy.port"));
+         Packages.java.lang.System.setProperty("http.proxyPort", ms.getConfigParameter("mid.proxy.port"));
+      }
+      var conn = new Packages.java.net.URL(url).openConnection();
+      this.logMsg("Sending to : " + url, "debug");
+      
+      var userpass = new java.lang.String(this.probeParameters.instanceUser + ":" + this.probeParameters.instancePassword);
+      var basicAuth = "Basic " + (new Packages.javax.xml.bind.DatatypeConverter.printBase64Binary(userpass.getBytes()) + '');
+      conn.setRequestProperty("Authorization", basicAuth);
+      conn.setDoOutput(true);
+      conn.setRequestMethod("POST");
+      conn.setUseCaches(false);
+      
+      conn.setRequestProperty("Content-Type", "multipart/form-data; boundary=" + this.boundary);
+      conn.setRequestProperty("User-Agent", "MID Server POST");
+      
+      return conn;
+      
+   },
+   
+   _getFile: function() {
+      return new Packages.java.io.File(this.probeParameters.filePath);
+   },
+   
+   _writeFile: function(conn, uploadFile) {
+      
+      var outputStream = conn.getOutputStream();
+      var writer = new Packages.java.io.PrintWriter(new Packages.java.io.OutputStreamWriter(outputStream, this.charset), true);
+      var fieldName = 'file';
+      var fileName = uploadFile.getName();
+      
+      this.logMsg("Sending file : " + fileName, "debug");
+      
+      writer.append("--" + this.boundary).append(this.LINE_FEED);
+      writer.append("Content-Disposition: form-data; name=\"" + fieldName + "\"; filename=\"" + fileName + "\"").append(this.LINE_FEED);
+      writer.append("Content-Type: " + Packages.java.net.URLConnection.guessContentTypeFromName(fileName)).append(this.LINE_FEED);
+      writer.append("Content-Transfer-Encoding: binary").append(this.LINE_FEED);
+      writer.append(this.LINE_FEED).flush();
+      
+      this._writeFileData(uploadFile, outputStream);
+      
+      writer.append(this.LINE_FEED).flush();
+      writer.append(this.LINE_FEED).flush();
+      writer.append("--" + this.boundary + "--").append(this.LINE_FEED);
+      writer.close();
+      return conn.getResponseCode();
+   },
+   
+   
+   _writeFileData: function(uploadFile, outputStream) {
+      var inputStream = new Packages.java.io.FileInputStream(uploadFile);
+      
+      var data = new Packages.java.lang.reflect.Array.newInstance(java.lang.Byte.TYPE, 4096);
+      var bytesRead = 0;
+      while ((bytesRead = inputStream.read(data)) != -1) {
+         outputStream.write(data, 0, bytesRead);
+         outputStream.flush();
+      }
+      inputStream.close();
+   },
+   
+   
+   logMsg: function(message, logType) {
+      logType = logType || 'info';
+      var prefixStr = "*** MID Server Remote File";
+      if (logType == 'info' || logType == 'error') {
+         ms.log(prefixStr + " " + logType.toUpperCase() + "*** " + message);
+      }
+      if (this.debug && logType == 'debug') {
+         ms.log(" DEBUG *** " + message);
+      }
+   },
+   
+   type: 'CSMIDServerRemoteFileImport'
+};]]]]><![CDATA[></script><sys_created_by>marcus.fly@CS_SHARE</sys_created_by><sys_created_on>2014-04-22 19:04:58</sys_created_on><sys_id>649cbb289590e900da640ba99ece29e5</sys_id><sys_mod_count>19</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-10-30 01:42:39</sys_updated_on></ecc_agent_script_include><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;`/</sys_code><sys_created_by>marcus.fly@CS_SHARE</sys_created_by><sys_created_on>2014-04-22 19:04:58</sys_created_on><sys_id>ad3c7f54558aa100a7e5000f49a8f044</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CSMIDServerRemoteFileImport</sys_name><sys_parent/><sys_path>!!9;`/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>649cbb289590e900da640ba99ece29e5</sys_source_id><sys_source_table>ecc_agent_script_include</sys_source_table><sys_type/><sys_update_name>ecc_agent_script_include_649cbb289590e900da640ba99ece29e5</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-10-30 01:42:39</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>7008fb392b007900a7e5c73c27da1584</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table/>
+<target_name>CSMIDServerRemoteFileImport</target_name>
+<type>MID Server Script Include</type>
+<u_link>[code]&lt;a title="CSMIDServerRemoteFileImport" class="linked" href="ecc_agent_script_include.do?sys_id=649cbb289590e900da640ba99ece29e5"&gt;CSMIDServerRemoteFileImport&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_fd75b3d8dc8a2140faa533ccb739ce76</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><condition/><description>Default access control on u_cs_file_import</description><name>u_cs_file_import</name><operation display_value="delete">delete</operation><script/><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>fd75b3d8dc8a2140faa533ccb739ce76</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on><type display_value="record">record</type></sys_security_acl><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;J/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>3175b3d8dc8a2140faa533ccb739ce78</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cs_file_import</sys_name><sys_parent/><sys_path>!!9;J/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>fd75b3d8dc8a2140faa533ccb739ce76</sys_source_id><sys_source_table>sys_security_acl</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_security_acl_fd75b3d8dc8a2140faa533ccb739ce76</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>7808fb392b007900a7e5c73c27da1585</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_cs_file_import</target_name>
+<type>Access Control</type>
+<u_link>[code]&lt;a title="u_cs_file_import" class="linked" href="sys_security_acl.do?sys_id=fd75b3d8dc8a2140faa533ccb739ce76"&gt;u_cs_file_import&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_590b371cdc8a2140faa533ccb739ce31</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy"><sys_ui_policy action="INSERT_OR_UPDATE"><active>true</active><conditions/><description/><global>true</global><inherit>false</inherit><model_id/><model_table/><on_load>true</on_load><order>100</order><reverse_if_false>true</reverse_if_false><run_scripts>false</run_scripts><script_false><![CDATA[function onCondition() {
+
+}]]]]><![CDATA[></script_false><script_true><![CDATA[function onCondition() {
+
+}]]]]><![CDATA[></script_true><set_values/><short_description>CS - File Import UI Policy</short_description><sys_class_name>sys_ui_policy</sys_class_name><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:28</sys_created_on><sys_domain>global</sys_domain><sys_id>590b371cdc8a2140faa533ccb739ce31</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:28</sys_updated_on><table>u_cs_file_import</table><view/></sys_ui_policy><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;Y/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:28</sys_created_on><sys_id>d83b371cdc8a2140faa533ccb739ce4b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CS - File Import UI Policy</sys_name><sys_parent display_value="Cs File Import">6d75b3d8dc8a2140faa533ccb739ce60</sys_parent><sys_path>!!9;B/!!9;Y/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>590b371cdc8a2140faa533ccb739ce31</sys_source_id><sys_source_table>sys_ui_policy</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_ui_policy_590b371cdc8a2140faa533ccb739ce31</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:28</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>7808fb392b007900a7e5c73c27da1588</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>CS - File Import UI Policy</target_name>
+<type>UI Policy</type>
+<u_link>[code]&lt;a title="CS - File Import UI Policy" class="linked" href="sys_ui_policy.do?sys_id=590b371cdc8a2140faa533ccb739ce31"&gt;CS - File Import UI Policy&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_b0b473d8dc8a2140faa533ccb739ce28</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><create_access_controls>true</create_access_controls><is_extendable>false</is_extendable><label>Remote File Import</label><name>u_cs_file_import</name><number_ref/><provider_class/><super_class display_value="Scheduled Script Execution" name="sysauto_script">04e96e9f29f65500a7e504079cc43a06</super_class><sys_app_file/><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>b0b473d8dc8a2140faa533ccb739ce28</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on><user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</user_role></sys_db_object><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;B/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>6d75b3d8dc8a2140faa533ccb739ce60</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cs File Import</sys_name><sys_parent/><sys_path>!!9;B/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id name="u_cs_file_import" sys_source_table="sys_db_object">b0b473d8dc8a2140faa533ccb739ce28</sys_source_id><sys_source_table>sys_db_object</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_db_object_b0b473d8dc8a2140faa533ccb739ce28</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:27</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>7c08fb392b007900a7e5c73c27da1584</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Remote File Import</target_name>
+<type>Table</type>
+<u_link>[code]&lt;a title="Remote File Import" class="linked" href="sys_db_object.do?sys_id=b0b473d8dc8a2140faa533ccb739ce28"&gt;Remote File Import&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_a658935895dca900da640ba99ece290c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="MID Server">f561dd85c61122750108735982d15216</application><content_page/><filter/><hint/><homepage/><image>images/icons/homepage.gif</image><link_type>LIST</link_type><map_page/><name>u_cs_file_import</name><order>820</order><query/><report/><roles>admin</roles><survey/><survey_overwrite>true</survey_overwrite><sys_created_by>marcus.fly@CS_SHARE</sys_created_by><sys_created_on>2014-04-21 21:46:22</sys_created_on><sys_domain>global</sys_domain><sys_id>a658935895dca900da640ba99ece290c</sys_id><sys_mod_count>4</sys_mod_count><sys_overrides/><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:46:31</sys_updated_on><timeline_page/><title>Remote File Import</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;T/</sys_code><sys_created_by>marcus.fly@CS_SHARE</sys_created_by><sys_created_on>2014-04-21 21:46:22</sys_created_on><sys_id>5fd537d8dc8a2140faa533ccb739ceaf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Remote File Import</sys_name><sys_parent/><sys_path>!!9;T/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>a658935895dca900da640ba99ece290c</sys_source_id><sys_source_table>sys_app_module</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_app_module_a658935895dca900da640ba99ece290c</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:46:31</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>7c08fb392b007900a7e5c73c27da1587</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Remote File Import</target_name>
+<type>Module</type>
+<u_link>[code]&lt;a title="Remote File Import" class="linked" href="sys_app_module.do?sys_id=a658935895dca900da640ba99ece290c"&gt;Remote File Import&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_override_15867fd8dc8a2140faa533ccb739ce53</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>sysauto_script</base_table><calculation/><calculation_override>false</calculation_override><default_value>var importFile = new CSRemoteFileImport(current);&#13;
+importFile.createEccQueueOutput();</default_value><default_value_override>true</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>false</display_override><element>script</element><name>u_cs_file_import</name><reference_qual/><reference_qual_override>false</reference_qual_override><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:48:14</sys_created_on><sys_id>15867fd8dc8a2140faa533ccb739ce53</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:48:14</sys_updated_on></sys_dictionary_override><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;V/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:48:14</sys_created_on><sys_id>cc967fd8dc8a2140faa533ccb739ce5a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>script</sys_name><sys_parent/><sys_path>!!9;V/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>15867fd8dc8a2140faa533ccb739ce53</sys_source_id><sys_source_table>sys_dictionary_override</sys_source_table><sys_type/><sys_update_name>sys_dictionary_override_15867fd8dc8a2140faa533ccb739ce53</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:48:14</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>b008fb392b007900a7e5c73c27da1587</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>script</target_name>
+<type>Dictionary Entry Override</type>
+<u_link>[code]&lt;a title="script" class="linked" href="sys_dictionary_override.do?sys_id=15867fd8dc8a2140faa533ccb739ce53"&gt;script&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_cs_file_import_u_file_path</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT" element="u_file_path" table="u_cs_file_import"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation><![CDATA[answer = "";]]]]><![CDATA[></calculation><choice/><choice_field/><choice_table/><column_label>File path</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><element>u_file_path</element><element_reference>false</element_reference><foreign_database/><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>255</max_length><name>u_cs_file_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_type/><sizeclass/><spell_check>false</spell_check><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:27</sys_created_on><sys_id>692573d8dc8a2140faa533ccb739cec5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:27</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;A/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:27</sys_created_on><sys_id>a975b3d8dc8a2140faa533ccb739ce5d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>File path</sys_name><sys_parent display_value="Remote File Import">6d75b3d8dc8a2140faa533ccb739ce60</sys_parent><sys_path>!!9;B/!!9;A/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id element="u_file_path" name="u_cs_file_import" sys_source_table="sys_dictionary">692573d8dc8a2140faa533ccb739cec5</sys_source_id><sys_source_table>sys_dictionary</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_dictionary_u_cs_file_import_u_file_path</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:27</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>b408fb392b007900a7e5c73c27da1585</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Remote File Import.u_file_path</target_name>
+<type>Dictionary</type>
+<u_link>Remote File Import.u_file_path</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_cs_file_import_u_import_table</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary element="u_import_table" table="u_cs_file_import"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation><![CDATA[answer = "";]]]]><![CDATA[></calculation><choice/><choice_field/><choice_table/><column_label>Import table</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><element>u_import_table</element><element_reference>false</element_reference><foreign_database/><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>u_cs_file_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="">sys_db_object</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual>javascript:CSRemoteFileImport.filterImportTables()</reference_qual><reference_type/><sizeclass/><spell_check>false</spell_check><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:27</sys_created_on><sys_id>eb05f358dc8a2140faa533ccb739cebb</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:17:24</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;@/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:27</sys_created_on><sys_id>a575b3d8dc8a2140faa533ccb739ce59</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Import table</sys_name><sys_parent display_value="Cs File Import">6d75b3d8dc8a2140faa533ccb739ce60</sys_parent><sys_path>!!9;B/!!9;@/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id element="u_import_table" name="u_cs_file_import" sys_source_table="sys_dictionary">eb05f358dc8a2140faa533ccb739cebb</sys_source_id><sys_source_table>sys_dictionary</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_dictionary_u_cs_file_import_u_import_table</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:17:24</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>b408fb392b007900a7e5c73c27da1588</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Remote File Import.u_import_table</target_name>
+<type>Dictionary</type>
+<u_link>Remote File Import.u_import_table</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_8befe79c95dca900da640ba99ece2948</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include"><sys_script_include action="INSERT_OR_UPDATE"><active>true</active><client_callable>false</client_callable><description> Usage:
+The Initialize method requires the Scheduled Remote File Import GlideRecord.
+var importFile = new CSRemoteFileImport(current);
+importFile.createEccQueueOutput();</description><name>CSRemoteFileImport</name><script><![CDATA[var CSRemoteFileImport = Class.create();
+
+CSRemoteFileImport.prototype = {
+   
+   initialize: function(remoteFileImportGR) {
+	  /*
+      //For documentation on how this post method works check the wiki here:
+      //http://wiki.servicenow.com/index.php?title=Importing_Data_Using_Import_Sets
+	  //Created by Marcus Fly (marcus.fly@cloudsherpas.com)
+	  //Created by Valor Poland (valor.poland@cloudsherpas.com
+      */
+      this.debug = true; //add a property at later date
+      if(!remoteFileImportGR) {
+         this.logMsg("Attempted to get file from MID server but no record was defined", 'debug');
+         return;
+      }
+      this.record = remoteFileImportGR;  //set our record to be the current record passed in
+   },
+   
+   createEccQueueOutput : function(){
+      this.logMsg("Creating ECC Queue entry for: " + this.record.getDisplayValue() + " instance URL: " + gs.getProperty('glide.servlet.uri'), 'debug');
+      
+      var jsProbe = this.getJSProbe();
+      jsProbe.create();
+      this.record.u_last_run_datetime = gs.nowDateTime();
+      this.record.update();
+   },
+   
+   getJSProbe: function () {
+      var jsProbe = new JavascriptProbe(this.record.u_mid_server.name);
+      //jsProbe.setSource(this.type);
+      jsProbe.setName(this.type);
+      jsProbe.addParameter("filePath",        this.record.u_file_path);
+      jsProbe.addParameter("targetImportSet", this.record.u_import_table.name);
+      jsProbe.addParameter("instance",        gs.getProperty("glide.servlet.uri"));
+      
+      if(this.debug) {
+         jsProbe.setParameter("debug", this.debug);
+      }
+      
+      jsProbe.setJavascript("var remoteFileImport = new CSMIDServerRemoteFileImport(); \nremoteFileImport.getRemoteFileAndUploadToInstance()");
+      
+      return jsProbe;
+   },
+   
+   logMsg : function(message, msgType) {
+      var msgSrc = "Remote File Importer";
+      if(this.debug && msgType == 'debug') {
+         gs.log('DEBUG: ' + message, msgSrc);
+      }
+      else if(msgType == 'info' || msgType == '') {
+         gs.log('INFO: ' + message, msgSrc);
+      }
+      else {
+         gs.print(message);
+      }
+   },
+   
+   type: "CSRemoteFileImport"
+};
+
+CSRemoteFileImport.filterImportTables = function() {
+	//Ref qual to only show import tables	
+   var t = new TableUtils("sys_import_set_row");
+   var ta = t.getTableExtensions();
+   var jst = j2js(ta);
+   return 'nameIN' + jst + '';
+};]]]]><![CDATA[></script><sys_created_by>marcus.fly@CS_SHARE</sys_created_by><sys_created_on>2014-04-21 23:30:04</sys_created_on><sys_id>8befe79c95dca900da640ba99ece2948</sys_id><sys_mod_count>11</sys_mod_count><sys_updated_by>marcus.fly@CS_SHARE</sys_updated_by><sys_updated_on>2014-04-23 23:07:09</sys_updated_on></sys_script_include><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;{/</sys_code><sys_created_by>marcus.fly@CS_SHARE</sys_created_by><sys_created_on>2014-04-21 23:30:04</sys_created_on><sys_id>4c4c7f54558aa100a7e5000f49a8f076</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CSRemoteFileImport</sys_name><sys_parent/><sys_path>!!9;{/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>8befe79c95dca900da640ba99ece2948</sys_source_id><sys_source_table>sys_script_include</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_script_include_8befe79c95dca900da640ba99ece2948</sys_update_name><sys_updated_by>marcus.fly@CS_SHARE</sys_updated_by><sys_updated_on>2014-04-23 23:07:09</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>b808fb392b007900a7e5c73c27da1584</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table/>
+<target_name>CSRemoteFileImport</target_name>
+<type>Script Include</type>
+<u_link>[code]&lt;a title="CSRemoteFileImport" class="linked" href="sys_script_include.do?sys_id=8befe79c95dca900da640ba99ece2948"&gt;CSRemoteFileImport&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_d6d6b7392b007900a7e5c73c27da1504</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action"><sys_ui_action action="INSERT_OR_UPDATE"><action_name/><active>false</active><client>true</client><comments>Launch this probe (after specifying MID server and target IP address)</comments><condition/><form_action>true</form_action><form_button>false</form_button><form_context_menu>false</form_context_menu><form_link>true</form_link><hint>Launch this probe (after specifying MID server and target IP address)</hint><list_action>false</list_action><list_banner_button>false</list_banner_button><list_button>false</list_button><list_choice>false</list_choice><list_context_menu>false</list_context_menu><list_link>false</list_link><list_save_with_form_button>false</list_save_with_form_button><name>Import Now</name><onclick>runImportNow();</onclick><order>100</order><script><![CDATA[function runImportNow() {
+   var gdw = new GlideDialogWindow("run_remote_import");
+   gdw.setTitle("Run Import");
+   
+   gdw.render();
+}]]]]><![CDATA[></script><show_insert>true</show_insert><show_multiple_update>false</show_multiple_update><show_query>false</show_query><show_update>true</show_update><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-10-30 01:45:57</sys_created_on><sys_domain>global</sys_domain><sys_id>d6d6b7392b007900a7e5c73c27da1504</sys_id><sys_mod_count>2</sys_mod_count><sys_overrides/><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-10-30 01:50:38</sys_updated_on><table>u_cs_file_import</table></sys_ui_action><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!:[U/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-10-30 01:45:57</sys_created_on><sys_id>9ad6b7392b007900a7e5c73c27da1505</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Import Now</sys_name><sys_parent display_value="Cs File Import">6d75b3d8dc8a2140faa533ccb739ce60</sys_parent><sys_path>!!9;B/!!:[U/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>d6d6b7392b007900a7e5c73c27da1504</sys_source_id><sys_source_table>sys_ui_action</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_ui_action_d6d6b7392b007900a7e5c73c27da1504</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-10-30 01:50:38</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>b808fb392b007900a7e5c73c27da1587</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Import Now</target_name>
+<type>UI Action</type>
+<u_link>[code]&lt;a title="Import Now" class="linked" href="sys_ui_action.do?sys_id=d6d6b7392b007900a7e5c73c27da1504"&gt;Import Now&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_d43b371cdc8a2140faa533ccb739ce4c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>u_mid_server</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:28</sys_created_on><sys_id>d43b371cdc8a2140faa533ccb739ce4c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:28</sys_updated_on><table>u_cs_file_import</table><ui_policy display_value="CS - File Import UI Policy">590b371cdc8a2140faa533ccb739ce31</ui_policy><visible>ignore</visible></sys_ui_policy_action><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;Z/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:28</sys_created_on><sys_id>d43b371cdc8a2140faa533ccb739ce4d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_mid_server</sys_name><sys_parent display_value="CS - File Import UI Policy">d83b371cdc8a2140faa533ccb739ce4b</sys_parent><sys_path>!!9;B/!!9;Y/!!9;Z/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>d43b371cdc8a2140faa533ccb739ce4c</sys_source_id><sys_source_table>sys_ui_policy_action</sys_source_table><sys_type/><sys_update_name>sys_ui_policy_action_d43b371cdc8a2140faa533ccb739ce4c</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:28</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>bc08fb392b007900a7e5c73c27da1583</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_mid_server</target_name>
+<type>UI Policy Action</type>
+<u_link>[code]&lt;a title="u_mid_server" class="linked" href="sys_ui_policy_action.do?sys_id=d43b371cdc8a2140faa533ccb739ce4c"&gt;u_mid_server&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_cs_file_import_u_last_run_datetime</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT" element="u_last_run_datetime" table="u_cs_file_import"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation><![CDATA[answer = "";]]]]><![CDATA[></calculation><choice/><choice_field/><choice_table/><column_label>Last run date/time</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><element>u_last_run_datetime</element><element_reference>false</element_reference><foreign_database/><internal_type display_value="">glide_date_time</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_cs_file_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_type/><sizeclass/><spell_check>false</spell_check><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:28</sys_created_on><sys_id>f4e473d8dc8a2140faa533ccb739ce33</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:28</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;?/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:28</sys_created_on><sys_id>e175b3d8dc8a2140faa533ccb739ce55</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Last run date/time</sys_name><sys_parent display_value="Remote File Import">6d75b3d8dc8a2140faa533ccb739ce60</sys_parent><sys_path>!!9;B/!!9;?/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id element="u_last_run_datetime" name="u_cs_file_import" sys_source_table="sys_dictionary">f4e473d8dc8a2140faa533ccb739ce33</sys_source_id><sys_source_table>sys_dictionary</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_dictionary_u_cs_file_import_u_last_run_datetime</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:28</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>f008fb392b007900a7e5c73c27da1585</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Remote File Import.u_last_run_datetime</target_name>
+<type>Dictionary</type>
+<u_link>Remote File Import.u_last_run_datetime</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_603b371cdc8a2140faa533ccb739ce79</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><disabled>true</disabled><field>u_last_run_datetime</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:28</sys_created_on><sys_id>603b371cdc8a2140faa533ccb739ce79</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:28</sys_updated_on><table>u_cs_file_import</table><ui_policy display_value="CS - File Import UI Policy">590b371cdc8a2140faa533ccb739ce31</ui_policy><visible>ignore</visible></sys_ui_policy_action><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;^/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:28</sys_created_on><sys_id>2c3b371cdc8a2140faa533ccb739ce79</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_last_run_datetime</sys_name><sys_parent display_value="CS - File Import UI Policy">d83b371cdc8a2140faa533ccb739ce4b</sys_parent><sys_path>!!9;B/!!9;Y/!!9;^/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>603b371cdc8a2140faa533ccb739ce79</sys_source_id><sys_source_table>sys_ui_policy_action</sys_source_table><sys_type/><sys_update_name>sys_ui_policy_action_603b371cdc8a2140faa533ccb739ce79</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:28</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>f008fb392b007900a7e5c73c27da1588</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_last_run_datetime</target_name>
+<type>UI Policy Action</type>
+<u_link>[code]&lt;a title="u_last_run_datetime" class="linked" href="sys_ui_policy_action.do?sys_id=603b371cdc8a2140faa533ccb739ce79"&gt;u_last_run_datetime&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_3575b3d8dc8a2140faa533ccb739ce68</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>3575b3d8dc8a2140faa533ccb739ce68</sys_id><sys_mod_count>0</sys_mod_count><sys_security_acl display_value="u_cs_file_import">b975b3d8dc8a2140faa533ccb739ce64</sys_security_acl><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role></sys_security_acl_role><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;E/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>f975b3d8dc8a2140faa533ccb739ce69</sys_id><sys_mod_count>0</sys_mod_count><sys_name>3575b3d8dc8a2140faa533ccb739ce68</sys_name><sys_parent/><sys_path>!!9;E/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>3575b3d8dc8a2140faa533ccb739ce68</sys_source_id><sys_source_table>sys_security_acl_role</sys_source_table><sys_type/><sys_update_name>sys_security_acl_role_3575b3d8dc8a2140faa533ccb739ce68</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>f008fb392b007900a7e5c73c27da1589</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_cs_file_import.admin</target_name>
+<type>Access Roles</type>
+<u_link>[code]&lt;a title="u_cs_file_import.admin" class="linked" href="sys_security_acl_role.do?sys_id=3575b3d8dc8a2140faa533ccb739ce68"&gt;u_cs_file_import.admin&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_b575b3d8dc8a2140faa533ccb739ce71</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><condition/><description>Default access control on u_cs_file_import</description><name>u_cs_file_import</name><operation display_value="write">write</operation><script/><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>b575b3d8dc8a2140faa533ccb739ce71</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on><type display_value="record">record</type></sys_security_acl><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;H/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>f575b3d8dc8a2140faa533ccb739ce72</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cs_file_import</sys_name><sys_parent/><sys_path>!!9;H/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>b575b3d8dc8a2140faa533ccb739ce71</sys_source_id><sys_source_table>sys_security_acl</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_security_acl_b575b3d8dc8a2140faa533ccb739ce71</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>f408fb392b007900a7e5c73c27da1584</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_cs_file_import</target_name>
+<type>Access Control</type>
+<u_link>[code]&lt;a title="u_cs_file_import" class="linked" href="sys_security_acl.do?sys_id=b575b3d8dc8a2140faa533ccb739ce71"&gt;u_cs_file_import&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_183b371cdc8a2140faa533ccb739ce51</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>u_import_table</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:28</sys_created_on><sys_id>183b371cdc8a2140faa533ccb739ce51</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:28</sys_updated_on><table>u_cs_file_import</table><ui_policy display_value="CS - File Import UI Policy">590b371cdc8a2140faa533ccb739ce31</ui_policy><visible>ignore</visible></sys_ui_policy_action><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;]/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-18 00:08:28</sys_created_on><sys_id>183b371cdc8a2140faa533ccb739ce77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_import_table</sys_name><sys_parent display_value="CS - File Import UI Policy">d83b371cdc8a2140faa533ccb739ce4b</sys_parent><sys_path>!!9;B/!!9;Y/!!9;]/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>183b371cdc8a2140faa533ccb739ce51</sys_source_id><sys_source_table>sys_ui_policy_action</sys_source_table><sys_type/><sys_update_name>sys_ui_policy_action_183b371cdc8a2140faa533ccb739ce51</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-18 00:08:28</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>f408fb392b007900a7e5c73c27da1587</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_import_table</target_name>
+<type>UI Policy Action</type>
+<u_link>[code]&lt;a title="u_import_table" class="linked" href="sys_ui_policy_action.do?sys_id=183b371cdc8a2140faa533ccb739ce51"&gt;u_import_table&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_3175b3d8dc8a2140faa533ccb739ce7a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>3175b3d8dc8a2140faa533ccb739ce7a</sys_id><sys_mod_count>0</sys_mod_count><sys_security_acl display_value="u_cs_file_import">fd75b3d8dc8a2140faa533ccb739ce76</sys_security_acl><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role></sys_security_acl_role><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;K/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:26</sys_created_on><sys_id>7175b3d8dc8a2140faa533ccb739ce7b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>3175b3d8dc8a2140faa533ccb739ce7a</sys_name><sys_parent/><sys_path>!!9;K/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>3175b3d8dc8a2140faa533ccb739ce7a</sys_source_id><sys_source_table>sys_security_acl_role</sys_source_table><sys_type/><sys_update_name>sys_security_acl_role_3175b3d8dc8a2140faa533ccb739ce7a</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:26</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>f408fb392b007900a7e5c73c27da1589</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>u_cs_file_import.admin</target_name>
+<type>Access Roles</type>
+<u_link>[code]&lt;a title="u_cs_file_import.admin" class="linked" href="sys_security_acl_role.do?sys_id=3175b3d8dc8a2140faa533ccb739ce7a"&gt;u_cs_file_import.admin&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_f1eeb7689590e900da640ba99ece29d9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="MID Server">f561dd85c61122750108735982d15216</application><content_page/><filter/><hint>Remote File Import</hint><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><name/><order>800</order><query>Remote File Import</query><report/><roles>admin</roles><survey/><survey_overwrite>true</survey_overwrite><sys_created_by>marcus.fly@CS_SHARE</sys_created_by><sys_created_on>2014-04-22 19:13:38</sys_created_on><sys_domain>global</sys_domain><sys_id>f1eeb7689590e900da640ba99ece29d9</sys_id><sys_mod_count>3</sys_mod_count><sys_overrides/><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:46:22</sys_updated_on><timeline_page/><title>Remote File Import</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;S/</sys_code><sys_created_by>marcus.fly@CS_SHARE</sys_created_by><sys_created_on>2014-04-22 19:13:38</sys_created_on><sys_id>dbd537d8dc8a2140faa533ccb739cead</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Remote File Import</sys_name><sys_parent/><sys_path>!!9;S/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>f1eeb7689590e900da640ba99ece29d9</sys_source_id><sys_source_table>sys_app_module</sys_source_table><sys_type>code</sys_type><sys_update_name>sys_app_module_f1eeb7689590e900da640ba99ece29d9</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:46:22</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>f808fb392b007900a7e5c73c27da1583</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table/>
+<target_name>Remote File Import</target_name>
+<type>Module</type>
+<u_link>[code]&lt;a title="Remote File Import" class="linked" href="sys_app_module.do?sys_id=f1eeb7689590e900da640ba99ece29d9"&gt;Remote File Import&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>dictionary_u_cs_file_import_068956fcde87482083a213d2be477a40</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><database><element extends="sysauto_script" label="Remote File Import" name="u_cs_file_import" type="collection"><element label="File path" max_length="255" name="u_file_path" type="string"/><element label="Import table" name="u_import_table" reference="sys_db_object" type="reference"/><element label="Last run date/time" max_length="40" name="u_last_run_datetime" type="glide_date_time"/><element label="MID server" name="u_mid_server" reference="ecc_agent" type="reference"/></element></database><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;M/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:43:27</sys_created_on><sys_id>3975b3d8dc8a2140faa533ccb739ce82</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cs_file_import</sys_name><sys_parent display_value="Remote File Import">6d75b3d8dc8a2140faa533ccb739ce60</sys_parent><sys_path>!!9;B/!!9;M/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id element="NULL" name="u_cs_file_import" sys_source_table="sys_dictionary">f575b3d8dc8a2140faa533ccb739ce81</sys_source_id><sys_source_table>sys_dictionary</sys_source_table><sys_type>code</sys_type><sys_update_name>dictionary_u_cs_file_import_068956fcde87482083a213d2be477a40</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:43:28</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>f808fb392b007900a7e5c73c27da1589</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Remote File Import</target_name>
+<type>Database field(s)</type>
+<u_link>Remote File Import</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_71d6bfd8dc8a2140faa533ccb739ce92</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section section_id="71d6bfd8dc8a2140faa533ccb739ce92" sys_domain="global" table="u_cs_file_import" version="2"><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:56</sys_created_on><sys_id>01f673d8dc8a2140faa533ccb739ce3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="Remote File Information">71d6bfd8dc8a2140faa533ccb739ce92</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:56</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_mid_server</element><position>1</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:56</sys_created_on><sys_id>81f673d8dc8a2140faa533ccb739ce3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="Remote File Information">71d6bfd8dc8a2140faa533ccb739ce92</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_import_table</element><position>2</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:56</sys_created_on><sys_id>05f673d8dc8a2140faa533ccb739ce3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="Remote File Information">71d6bfd8dc8a2140faa533ccb739ce92</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:56</sys_created_on><sys_id>85f673d8dc8a2140faa533ccb739ce3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="Remote File Information">71d6bfd8dc8a2140faa533ccb739ce92</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:56</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_last_run_datetime</element><position>4</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:56</sys_created_on><sys_id>09f673d8dc8a2140faa533ccb739ce3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="Remote File Information">71d6bfd8dc8a2140faa533ccb739ce92</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>5</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:56</sys_created_on><sys_id>89f673d8dc8a2140faa533ccb739ce3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="Remote File Information">71d6bfd8dc8a2140faa533ccb739ce92</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:56</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_file_path</element><position>6</position><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:56</sys_created_on><sys_id>0df673d8dc8a2140faa533ccb739ce3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_section display_value="Remote File Information">71d6bfd8dc8a2140faa533ccb739ce92</sys_ui_section><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:56</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Remote File Information</caption><header>false</header><name>u_cs_file_import</name><roles/><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:27</sys_created_on><sys_domain>global</sys_domain><sys_id>71d6bfd8dc8a2140faa533ccb739ce92</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:27</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section><sys_app_file action="INSERT_OR_UPDATE"><sys_app/><sys_code>!!9;X/</sys_code><sys_created_by>valor.poland@cs_SHARE</sys_created_by><sys_created_on>2014-07-17 23:49:27</sys_created_on><sys_id>31d6bfd8dc8a2140faa533ccb739ce93</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Remote File Information</sys_name><sys_parent display_value="Cs File Import">6d75b3d8dc8a2140faa533ccb739ce60</sys_parent><sys_path>!!9;B/!!9;X/</sys_path><sys_policy/><sys_source_deleted>false</sys_source_deleted><sys_source_id>71d6bfd8dc8a2140faa533ccb739ce92</sys_source_id><sys_source_table>sys_ui_section</sys_source_table><sys_type/><sys_update_name>sys_ui_section_71d6bfd8dc8a2140faa533ccb739ce92</sys_update_name><sys_updated_by>valor.poland@cs_SHARE</sys_updated_by><sys_updated_on>2014-07-17 23:49:27</sys_updated_on></sys_app_file></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>valor.poland@cs_SHARE</sys_created_by>
+<sys_created_on>2014-10-30 01:51:02</sys_created_on>
+<sys_id>fc08fb392b007900a7e5c73c27da1586</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>valor.poland@cs_SHARE</sys_updated_by>
+<sys_updated_on>2014-10-30 01:51:02</sys_updated_on>
+<table>u_cs_file_import</table>
+<target_name>Remote File Import (Remote File Information)</target_name>
+<type>Form Layout</type>
+<u_link>[code]&lt;a title="Remote File Import (Remote File Information)" class="linked" href="sys_ui_section.do?sys_id=71d6bfd8dc8a2140faa533ccb739ce92"&gt;Remote File Import (Remote File Information)&lt;/a&gt;[/code]</u_link>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value=""/>
+<category>customer</category>
+<comments/>
+<name>sys_trigger_1cd433f16f85210015244035eb3ee411</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_trigger"><sys_trigger action="INSERT_OR_UPDATE"><application/><calendar/><claimed_by/><document/><document_key/><error_count>0</error_count><job_context/><job_id display_value="RunScriptJob">81c92ce9c0a8016400e5f0d2f784ea78</job_id><last_error/><log>false</log><maintenance>false</maintenance><max_drift/><name>Share Install Logger</name><next_action>2014-01-01 23:29:16</next_action><parent/><priority>100</priority><processing_duration>0</processing_duration><repeat/><run_count>0</run_count><run_dayofmonth/><run_dayofweek>1</run_dayofweek><run_month>1</run_month><run_time>1970-01-01 08:00:00</run_time><run_weekinmonth>1</run_weekinmonth><script>var logClient = new GlideSimpleHTTPClient('https://share.servicenow.com/installLogger.do');&#13;
+var query_string = 'installed_by=' + gs.getUserName() + '&amp;instance_name=' + gs.getProperty('instance_name') + '&amp;artifact=259cf371870435002e7fb92489434d2a&amp;content=ad9c3371870435002e7fb92489434de2';&#13;
+gs.log('posting to: ' + query_string);&#13;
+logClient.get(query_string);</script><state>0</state><sys_created_by/><sys_created_on/><sys_id>1cd433f16f85210015244035eb3ee411</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><system_id/><trigger_class>DEFAULT</trigger_class><trigger_type>0</trigger_type></sys_trigger></record_update>]]></payload>
+<remote_update_set display_value="Cloud Sherpas - Remote File Importer - v1.3">7c08fb392b007900a7e5c73c27da1582</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>bharath.prathipati@snc</sys_created_by>
+<sys_created_on>2014-06-02 22:30:02</sys_created_on>
+<sys_id>b31573f16f85210015244035eb3ee470</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>bharath.prathipati@snc</sys_updated_by>
+<sys_updated_on>2014-06-02 22:30:02</sys_updated_on>
+<table/>
+<target_name>Share Install Logger</target_name>
+<type>Schedule Item</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml></unload>
