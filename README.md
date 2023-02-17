@@ -1,2 +1,2 @@
 # now
-blabla
+Description of my custom application
